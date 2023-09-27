@@ -17,4 +17,6 @@ To earn an additional 4 points and further demonstrate your understanding of Dev
 5. For each identified principle, provide a detailed explanation of how it can help overcome the challenges and achieve the desired outcomes.
 6. Don't copy-paste, please use your own words. A short and simple answer is sufficient.
 7. Use clear and concise language to convey your ideas effectively.
+
+
 Remember to include your report and files in the same folder as the lab assignment. Create a Pull Request to the main branch of the repository when you have completed the tasks. Ensure that you follow the instructions provided by your instructor for the specific lab assignment.
