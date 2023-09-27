@@ -3,6 +3,7 @@ DevOps is a set of principles and practices that aim to improve collaboration, c
 
 **1. Culture of Collaboration:**  DevOps emphasizes fostering a culture of collaboration and shared responsibility among development, operations, and other stakeholders involved in the software development lifecycle. This includes breaking down silos, encouraging open communication, and promoting a sense of ownership and accountability for the entire software delivery process.
 
+
 **2. Automation:**  Automation is a crucial aspect of DevOps. It involves using tools and technologies to automate repetitive tasks, such as build and deployment processes, testing, and infrastructure provisioning. Automation helps reduce manual errors, improves efficiency, and enables faster and more frequent software releases.
 Example Tools: Jenkins, GitLab CI/CD, CircleCI
 
